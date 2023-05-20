@@ -7,6 +7,7 @@
 
 - [Página inicial para lol](https://github.com/Levi-Martins/site-lol)
 - [Controle Financeiro](https://github.com/Levi-Martins/controle-financeiro)
+- [Demake Glow Hockey](https://github.com/Levi-Martins/trabalho_final_mami/tree/main)
 - [Landing page para Monopolius SA.](https://github.com/Levi-Martins/Monopoluis-SA)
 - [Landing page para Hotel Paraíso](https://github.com/Levi-Martins/Hotel-Para-so)
 - [Calculadora responsiva](https://github.com/Levi-Martins/calculadora)
